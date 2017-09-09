@@ -1,7 +1,7 @@
 
 body {
-    background-color: rgb(0,0,0);
-    color: rgb(255,255,255);
+    background-color: black;
+    color: white;
     font-family: 'Special Elite', cursive;
     text-align: center;
 }
@@ -17,7 +17,7 @@ header {
 }
 
 footer {
-    color: rgb(255,255,255);
+    color: white;
     font-family: 'Wire One', sans-serif; 
 	/*font-style: italic;
     */
