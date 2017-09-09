@@ -2,7 +2,7 @@
 body {
     background-color: rgb(200,200,200);
     color: rgb(0,0,0);
-    font-family: 'Wire One', sans-serif;
+    font-family: 'Special Elite', cursive;
     text-align: center;
 }
 
@@ -17,7 +17,7 @@ header {
 }
 
 footer {
-    font-family: 'Special Elite', cursive;
+    font-family: 'Wire One', sans-serif; 
 	/*font-style: italic;
     */
 	font-size: 90%;
