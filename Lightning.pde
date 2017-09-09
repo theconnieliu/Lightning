@@ -26,8 +26,8 @@ void draw()
   fill(242, 133, 130);
   text("this is supposed to be a brain", 120, 280);
   text("clicking is like thinking:", 140, 320);
-  text("occasionally you may be lucky enough to get a lightning bolt– an idea", 10, 340);
-  text("but other times you'll get nothing, or maybe even a fried system.", 20, 360);
+  text("occasionally you may be lucky enough to get a lightning bolt– an idea.", 12, 340);
+  text("but other times you'll get nothing, or maybe even a fried system.", 24, 360);
   text("Keep up that brainstorm, ya trooper.", 100, 380);
   stroke(255,255,255);
   
